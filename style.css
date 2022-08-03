@@ -1,0 +1,12 @@
+td {color:gray;font-family:Verdana,Tahoma,Arial,sans-serif;font-size:70%;}
+.menu {color:white;text-decoration:none;}
+.top {color:#E6E6E6;text-decoration:none;}
+a {color:gray;text-decoration:none;}
+.red {color:#CC3333;}
+.redlink {color:#CC3333;text-decoration:underline;}
+.redbold {color:#CC3333;font-weight:bold;}
+.bold {font-weight:bold;}
+a:hover {color:#CC3333;text-decoration:none;}
+a.menu:hover {color:#F5D6D6;}
+a.top:hover {color:#CC3333;}
+.data {color:#CC3333;text-decoration:none;}
